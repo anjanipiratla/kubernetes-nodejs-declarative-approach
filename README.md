@@ -1,6 +1,6 @@
 ```
 ## Goal
-Instead of running multiple commands to deploy the pods, use one single file for deploying pods.
+Instead of running multiple commands to deploy, use one single file for deploying.
 
 ```
 
